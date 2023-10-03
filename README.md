@@ -19,9 +19,11 @@
 - woman, 32y
 - in love with the same programmer for > 11 years
 - first time mother
+- public health nutritionist
 - changing career
 - amateur runner
 - growdev student
+- 
 <br><br>
 
 
