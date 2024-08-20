@@ -19,10 +19,10 @@
 - woman, 32y
 - protestant christian
 - first time mother
-- public health nutritionist
+- public health specialist
 - changing career
 - amateur runner
-- growdev student
+- web fullstack development student
   
 <br><br>
 
