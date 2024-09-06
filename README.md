@@ -18,11 +18,12 @@
 
 - woman, 32y
 - protestant christian
-- first time mother
-- public health specialist
-- changing career
-- amateur runner
 - web fullstack development student
+- first time mother
+- changing career
+- public health specialist
+- amateur runner
+
   
 <br><br>
 
