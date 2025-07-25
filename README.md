@@ -16,10 +16,10 @@
 
 <br>
 
-- woman, 32y
+- woman, born in the 90s
 - protestant christian
-- web fullstack development student
-- first time mother
+- QA student
+- web fullstack development 
 - changing career
 - public health specialist
 - amateur runner
